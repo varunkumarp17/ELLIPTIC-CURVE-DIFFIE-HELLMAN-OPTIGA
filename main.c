@@ -257,9 +257,10 @@ int main(void)
 	}
 	else
 	{
-			printf("chal nikal");
+			printf("Shared key compute failed");
 	}
 }
 
 
 /* [] END OF FILE */
+
