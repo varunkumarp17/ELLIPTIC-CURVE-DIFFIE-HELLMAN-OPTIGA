@@ -257,9 +257,10 @@ int main(void)
 	}
 	else
 	{
-			printf("chal nikal");
+			printf("Successfuly Failed");
 	}
 }
 
 
 /* [] END OF FILE */
+
